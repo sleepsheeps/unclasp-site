@@ -1,6 +1,6 @@
 # Unclasp site
 
-Support page and privacy policy for the Unclasp: Rotate Ring Puzzle iOS app, served with GitHub Pages at
+Support page and privacy policy for the Unclasp: Rotate Rings Puzzle iOS app, served with GitHub Pages at
 https://sleepsheeps.github.io/unclasp-site/
 
 App Store Connect has them as the support URL and the privacy policy URL, and AdMob's consent message
